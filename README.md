@@ -1,1 +1,1 @@
-# Handwritten-digit-identification-using-sofHandwritten-digit-identification-using-softmax-MNIST
+# Handwritten-digit-identification-using-softmax-MNIST
