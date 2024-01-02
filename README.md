@@ -43,3 +43,10 @@ streamlit run home.py
 
 ## How to run this file
 The application will be accessible in your browser at http://localhost:8501.
+
+## PREDICTION
+
+## VISULATION
+
+
+
