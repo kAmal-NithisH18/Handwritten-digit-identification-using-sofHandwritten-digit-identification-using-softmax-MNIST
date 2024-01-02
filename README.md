@@ -20,7 +20,7 @@ This web application, developed with Streamlit, allows real-time digit recogniti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/subash-s-07/Handwritten-digit-identification-using-softmax-MNIST/
+    git clone https://github.com/kAmal-NithisH18/Handwritten-digit-identification-using-softmax-MNIST/
     ```
 
 2. Navigate to the project directory:
